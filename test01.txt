@@ -3,3 +3,4 @@ hello c
 hello hadoop
 hello hdfs
 hello yarn
+hello mr
